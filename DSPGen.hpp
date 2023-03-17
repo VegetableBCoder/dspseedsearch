@@ -318,7 +318,7 @@ public:
         if (!fast)
         {
             std::string str = NameGen.roman[index + 1];
-            planet.name = star.name + " " + str + "ºÅĞÇ";
+            planet.name = star.name + " " + str + "å·æ˜Ÿ";
         }
         double num3 = dotNet35Random.NextDouble();
         double num4 = dotNet35Random.NextDouble();
